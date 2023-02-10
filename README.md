@@ -13,8 +13,10 @@ Proxy support.
 
 ## Requirements
 PHP must be installed.
+
 Path must contain location if PHP binary.
 
+## Support
 For any queries:
 Email: php-wget@AskTaimoor.com
 Facebook: facebook.com/AskTaimoor
